@@ -61,7 +61,7 @@ section{
     
 }
 #full-stack{
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px blue;
     border-radius: 5px;
     height:80%;
     border-left: 7px solid;
@@ -71,7 +71,7 @@ section{
     background-color: white;
 }
 #baby-web{
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px rgb(221, 8, 8);
     border-radius: 5px;
     height:80%;
     border-left: 7px solid;
